@@ -11,16 +11,9 @@ Sensor Config
        configure communication
        configure gps yes or no
 
-
-
 Modules:
 	Sensors:  Base class that handles reading from RF, Computer
 	GPIO and debug
-
-
-
-
-
 
 Sensors will communicate measurements via RF or be directly plugged
 into computer.
